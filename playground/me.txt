@@ -1,5 +1,1 @@
-{{sadhana13gopal}
-Name: sadhanadevi
-Skills: HTML, CSS, Java,python,c,c++
-Email: sadhanadevig@gmail.com
-{{sadhana13gopal}}
+
